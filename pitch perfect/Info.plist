@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Record audio to play back to user</string>
+	<string>Detta krävs för att du ska kunna använda appen</string>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>en</string>
+	<string>se</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
